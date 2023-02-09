@@ -8,16 +8,11 @@
 - I am an enthusiastic and ambitious software engineer
 - I am  currently learning 🌱 **DevOps** (Docker, K8s ..).
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
-- I’m currently working as a Python developer at Sofrecom.
+- I love coding in Python :snake: ,currently I am working as a Python developer at Sofrecom.
 - 👯 I’m looking to collaborate on openSource projects.
 - I'm seeking an opportunity to work in a challenging position combining my skills in software engineering
 
-<!--- ⚡ Fun fact: ... --->
 
-</br>
-</br>
-
-</br>
 
 ## <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> **Languages & Tools:**
 
@@ -38,19 +33,10 @@
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Reach out to me:** ️
 
-[<img src="https://img.shields.io/badge/LinkedIn-zarrouq-soukaina-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/gmail-:zarrouqsoukaina@gmail.com?&style=for-the-badge&logo=gmail&logoColor=white" />][Gmail]
-
-
-
-
 <p align="center">
- <img src="https://komarev.com/ghpvc/?username=younesaitmha&&style=flat" align="center" />
+  <a target="_blank"href="https://www.linkedin.com/in/soukaina-zarrouq/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:zarrouqsoukaina@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-
-
 
 
 
